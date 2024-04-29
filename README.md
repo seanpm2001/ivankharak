@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan, Welcome to My Github!</h1>
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Senior%20Web%20%20Python%20Developer;Passionate%20Developer;Specialized%20in%20Django%20and%20Typescript;React,%20Vue,%20Next.js%20for%20the%20Front-End;Python,%20Node.js%20for%20the%20Back-End;Always%20learning%20new%20things.&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Senior%20Web%20%20Python%20Developer;Specialized%20in%20Django%20and%20Typescript;React,%20Vue,%20Next.js%20for%20the%20Front-End;Python,%20Node.js%20for%20the%20Back-End;Always%20learning%20new%20languages.&center=true&width=500&height=50">
   </a>
 </p>
 <p align="center"> 
